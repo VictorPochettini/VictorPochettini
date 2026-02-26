@@ -1,16 +1,17 @@
-## Hi there 👋
+# Victor Pochettini
 
-<!--
-**VictorPochettini/VictorPochettini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | C# / .NET | Systems & Networking Programming
 
-Here are some ideas to get you started:
+I build backend applications and low-level systems, focusing on networking, protocols, and software architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+vTrack — GPS tracker packet parser and monitoring system
+Mini-Kernel — experimental OS kernel written in C
+Character Database — C# CRUD backend with database integrati
+
+## Interests
+- Web Applications
+- Backend Architecture
+- Operating Systems
+- Embedded Systems
+- Networking
